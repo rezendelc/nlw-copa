@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+nlw-copa-api/.bash_history
+
+*/docker-nlw*
